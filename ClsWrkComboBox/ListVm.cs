@@ -13,7 +13,6 @@ namespace ClsWrkComboBox
         {
             _list = new List<string>() {"Mr", "Mrs", "Ms", "Miss"};
         }
-
       public List<string> List
       {
           get { return this._list; }
